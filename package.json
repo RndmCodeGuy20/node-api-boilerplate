@@ -52,7 +52,6 @@
 		"api"
 	],
 	"type": "module",
-	"private": true,
 	"author": "RndmCodeGuy20",
 	"license": "MIT",
 	"imports": {
